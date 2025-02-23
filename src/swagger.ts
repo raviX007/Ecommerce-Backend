@@ -12,8 +12,8 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:3000",
-        description: "Development server",
+        url: "https://ecommerce-backend-bxvr.onrender.com",
+        description: "Production server",
       },
     ],
     components: {
